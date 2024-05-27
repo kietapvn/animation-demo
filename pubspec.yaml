@@ -2,7 +2,7 @@ name: animation_demo
 description: "A new Flutter project."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
@@ -19,6 +19,7 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^4.0.0
+  build_runner: ^2.1.4
 
 flutter:
   uses-material-design: true
